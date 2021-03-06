@@ -6,7 +6,7 @@ class Item extends Component {
         return (
             <a href={link} className="project" target="blank" data-type="noodle">
                 <img src={img} alt="github" className="project__img"/>
-                <div className="project__description" href={link}>
+                <div className="project__description">
                     <h3>{name}</h3>
                     <span>{desc}</span>
                 </div>
