@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mocaReact/static/css/main.a9f689e9.chunk.css",
+    "main.js": "/mocaReact/static/js/main.45754712.chunk.js",
+    "main.js.map": "/mocaReact/static/js/main.45754712.chunk.js.map",
+    "runtime-main.js": "/mocaReact/static/js/runtime-main.3ea332aa.js",
+    "runtime-main.js.map": "/mocaReact/static/js/runtime-main.3ea332aa.js.map",
+    "static/js/2.64945d77.chunk.js": "/mocaReact/static/js/2.64945d77.chunk.js",
+    "static/js/2.64945d77.chunk.js.map": "/mocaReact/static/js/2.64945d77.chunk.js.map",
+    "index.html": "/mocaReact/index.html",
+    "static/css/main.a9f689e9.chunk.css.map": "/mocaReact/static/css/main.a9f689e9.chunk.css.map",
+    "static/js/2.64945d77.chunk.js.LICENSE.txt": "/mocaReact/static/js/2.64945d77.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/mocaReact/static/media/background.40f3e9e9.jpg",
+    "static/media/title.08c8878a.jpg": "/mocaReact/static/media/title.08c8878a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea332aa.js",
+    "static/js/2.64945d77.chunk.js",
+    "static/css/main.a9f689e9.chunk.css",
+    "static/js/main.45754712.chunk.js"
+  ]
+}
