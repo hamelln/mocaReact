@@ -252,6 +252,7 @@ body {
     max-width: 100%;
     max-height: 100%;
     align-self: center;
+    display: block;
 }
 
 .project__description {
@@ -343,6 +344,13 @@ body {
     height: 350px;
     align-self: auto;
     margin: 3px;
+}
+
+.title{
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: 1.438rem;
+    display: block;
 }
 
 /* For below 768px screen width */
