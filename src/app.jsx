@@ -4,6 +4,8 @@ import Items from './components/items';
 import Navbar from './components/navbar';
 import New from './components/new';
 import Footer from './components/footer';
+import Best from './components/best';
+import Steady from './components/steady';
 
 class App extends Component {
 
@@ -24,6 +26,8 @@ class App extends Component {
     <Navbar></Navbar>
     <New></New>
     <Items items={this.state.items}/>
+    <Best items={this.state.items}/>
+    <Steady items={this.state.items}/>
     <Footer></Footer>
     </>
     );
