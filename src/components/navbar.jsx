@@ -1,11 +1,12 @@
 import React, { PureComponent } from 'react';
 
+
 class Navbar extends PureComponent {
+    
     render() {
         return (
             <nav id="navbar">
         <div className="navbar__logo">
-            <i className="fas fa-utensils"></i>
             <a href="#">FOR</a>
         </div>
         <div className="navbar__menu">

@@ -346,11 +346,17 @@ body {
     margin: 3px;
 }
 
-.title{
-    padding-left: 90px;
+#work h2 {
+    padding-left: 10px;
     padding-right: 90px;
     font-size: 1.438rem;
-    display: block;
+    margin: 15px auto;
+    color: sienna;
+    text-align: left;
+}
+
+li.restaurant-item {
+    display: inline-block;
 }
 
 /* For below 768px screen width */
