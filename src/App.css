@@ -171,11 +171,14 @@ body {
 
 /* Section common */
 .section {
-    border-top: 1px solid #dbdbdb;
     padding: 50px;
     text-align: center;
-    position: relative;
     margin: auto;
+}
+
+#work.section {
+    border-top: 1px solid #dbdbdb;
+    position: relative;
 }
 
 .section__container {
