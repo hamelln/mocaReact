@@ -16,6 +16,8 @@ class App extends Component {
         {id: 3, name: '켄홈', img: process.env.PUBLIC_URL + '/imgs/noodle_3.jpg', title: '이자카야, 라멘', desc: '맛있습니다.', link: 'https://www.naver.com'},
         {id: 4, name: '국수나무', img: process.env.PUBLIC_URL + '/imgs/rice_1.jpg', title: '국수', desc: '맛있습니다.', link: 'https://www.naver.com'},
         {id: 5, name: '본죽', img: process.env.PUBLIC_URL + '/imgs/rice_2.jpg', title: '죽', desc: '맛있습니다.', link: 'https://www.naver.com'},
+        {id: 5, name: '본죽', img: process.env.PUBLIC_URL + '/imgs/rice_2.jpg', title: '죽', desc: '맛있습니다.', link: 'https://www.naver.com'},
+        {id: 5, name: '본죽', img: process.env.PUBLIC_URL + '/imgs/rice_2.jpg', title: '죽', desc: '맛있습니다.', link: 'https://www.naver.com'},
         {id: 6, name: '이삭 토스트', img: process.env.PUBLIC_URL + '/imgs/etc_1.jpg', title: '토스트', desc: '맛있습니다.', link: 'https://www.naver.com'},
     ],
   };  
